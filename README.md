@@ -14,8 +14,7 @@ To know in detail about this project in video form, watch this video:
 <img width="1919" height="1050" alt="image" src="https://github.com/user-attachments/assets/c0a9c1dd-5188-4fb7-857e-adaca8e17d3c" />
 
 
-
-https://github.com/user-attachments/assets/1b035047-8015-4147-87f9-61e6c5e50b24
+[![Watch demo](assets/demo-thumbnail.png)](assets/Output.mp4)
 
 
 
