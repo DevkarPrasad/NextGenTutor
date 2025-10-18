@@ -14,7 +14,9 @@ To know in detail about this project in video form, watch this video:
 <img width="1919" height="1050" alt="image" src="https://github.com/user-attachments/assets/c0a9c1dd-5188-4fb7-857e-adaca8e17d3c" />
 
 
-[![Watch demo](assets/demo-thumbnail.png)](assets/Output.mp4)
+This is the output video where we were asked to explain <strong>LSTM</strong>.
+
+https://github.com/user-attachments/assets/bfc5d87b-b156-4949-8639-3113f90977cb
 
 
 
