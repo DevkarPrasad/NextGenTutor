@@ -1,6 +1,10 @@
 # NexGenTutor
 
-NexGenTutor is an enhanced multimodal video-generation pipeline with a polished Streamlit UI, richer model-selection and configuration controls, scene-level preview and playback logic, improved error handling and compatibility shims, developer-friendly run/debug tooling, and usability improvements for creating STEM explanatory videos (math, physics, chemistry, CS, etc.). It streamlines interactive workflows — from planning and RAG-enabled generation to rendering and evaluation — and packages core capabilities for easier local use and rapid iteration.
+NexGenTutor is an enhanced multimodal video-generation pipeline with a polished Streamlit UI, richer model-selection and configuration controls, scene-level preview and playback logic, improved error handling and compatibility shims, developer-friendly run/debug tooling, and usability improvements for creating STEM explanatory videos (math, physics, chemistry, CS, etc.). It streamlines interactive workflows from planning and RAG-enabled generation to rendering and evaluation and packages core capabilities for easier local use and rapid iteration.
+
+[![Watch the video](https://img.youtube.com/vi/X31EXpIg7A0/0.jpg)](https://www.youtube.com/watch?v=X31EXpIg7A0)
+
+
 <img width="1919" height="1050" alt="image" src="https://github.com/user-attachments/assets/c0a9c1dd-5188-4fb7-857e-adaca8e17d3c" />
 
 
@@ -315,9 +319,6 @@ Also Thanks to
 * [manim-dsa](https://github.com/F4bbi/manim-dsa)
 * [manim-circuit](https://github.com/Mr-FuzzyPenguin/manim-circuit)
 
-## 🎫 License
-
-This project is released under the [the MIT License](LICENSE).
 
 ## 🚨 Disclaimer
 
