@@ -7,7 +7,7 @@ To know in detail about this project in video form, watch this video:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=X31EXpIg7A0">
-    <img src="https://img.youtube.com/vi/X31EXpIg7A0/0.jpg" alt="Watch the video"  width="600"/>
+    <img src="https://img.youtube.com/vi/X31EXpIg7A0/hqdefault.jpg" alt="Watch the video"  width="600"/>
   </a>
 </p>
 
