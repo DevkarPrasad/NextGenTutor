@@ -7,11 +7,13 @@ To know in detail about this project in video form, watch this video:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=X31EXpIg7A0">
-    <img src="https://img.youtube.com/vi/X31EXpIg7A0/hqdefault.jpg" alt="Watch the video"  width="600"/>
+    <img src="https://img.youtube.com/vi/X31EXpIg7A0/maxresdefault.jpg?v=2" alt="Watch the video"  width="600"/>
   </a>
 </p>
 
-
+<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+  <img src="assets/your-thumbnail.png" alt="Watch the video" width="600"/>
+</a>
 
 <img width="1919" height="1050" alt="image" src="https://github.com/user-attachments/assets/c0a9c1dd-5188-4fb7-857e-adaca8e17d3c" />
 
