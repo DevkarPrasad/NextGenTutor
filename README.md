@@ -3,8 +3,6 @@
 NexGenTutor is an enhanced multimodal video-generation pipeline with a polished Streamlit UI, richer model-selection and configuration controls, scene-level preview and playback logic, improved error handling and compatibility shims, developer-friendly run/debug tooling, and usability improvements for creating STEM explanatory videos (math, physics, chemistry, CS, etc.). It streamlines interactive workflows from planning and RAG-enabled generation to rendering and evaluation and packages core capabilities for easier local use and rapid iteration.
 
 
-### 📽️ To Know More About This Project
-
 To know in detail about this project in video form, watch this video:
 
 <p align="center">
